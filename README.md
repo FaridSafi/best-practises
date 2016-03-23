@@ -10,3 +10,12 @@ See [Mantra](https://github.com/kadirahq/mantra) and its [spec](https://kadirahq
 Upper camel case for files which exports single React component or class e.g. `PostList.js`.
 
 Otherwise, use underscore e.g. `method_stubs`.
+
+#### Sharing component names
+React & React Native components should share names and method names where possible.
+
+### Code Sharing
+Config - immutable javascript object with Twitter URL
+Translations - share translation key json e.g. `"send_bitcoin": "Send Bitcoin"`
+Share classes / prototypal methods - e.g. `transaction.getUser()`
+
