@@ -19,3 +19,7 @@ React & React Native components should share names and method names where possib
 * Translations - share translation key json e.g. `"send_bitcoin": "Send Bitcoin"`
 * Share classes / prototypal methods - e.g. `transaction.getUser()`
 
+### Design Langauge
+Material design components.
+
+Using [Material UI](http://www.material-ui.com/) for web app
