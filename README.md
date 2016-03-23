@@ -24,4 +24,4 @@ Material design components.
 
 Using [Material UI](http://www.material-ui.com/) for web app
 
-[Material UI Kit](https://github.com/xinthink/react-native-material-kit) cna be used for RN app
+[Material UI Kit](https://github.com/xinthink/react-native-material-kit) can be used for RN app
