@@ -23,3 +23,5 @@ React & React Native components should share names and method names where possib
 Material design components.
 
 Using [Material UI](http://www.material-ui.com/) for web app
+
+[Material UI Kit[(https://github.com/xinthink/react-native-material-kit) cna be used for RN app
