@@ -9,4 +9,4 @@ See [Mantra](https://github.com/kadirahq/mantra) and its [spec](https://kadirahq
 ### Naming Convention
 Upper camel case for files which exports single React component or class e.g. `PostList.js`.
 
-Otherwise, use userscore e.g. `method_stubs`.
+Otherwise, use underscore e.g. `method_stubs`.
