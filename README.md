@@ -15,7 +15,7 @@ Otherwise, use underscore e.g. `method_stubs`.
 React & React Native components should share names and method names where possible.
 
 ### Code Sharing
-Config - immutable javascript object with Twitter URL
-Translations - share translation key json e.g. `"send_bitcoin": "Send Bitcoin"`
-Share classes / prototypal methods - e.g. `transaction.getUser()`
+* Config - immutable javascript object with Twitter URL
+* Translations - share translation key json e.g. `"send_bitcoin": "Send Bitcoin"`
+* Share classes / prototypal methods - e.g. `transaction.getUser()`
 
